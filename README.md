@@ -1,2 +1,1 @@
-# regex-wordToken
-Regular expressions &amp; word tokenization
+# Regular expressions &amp; word tokenization :rocket:
