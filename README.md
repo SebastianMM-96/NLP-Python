@@ -1,1 +1,1 @@
-# Regular expressions &amp; word tokenization :rocket:
+# Natural Language Processing in Python :rocket:
